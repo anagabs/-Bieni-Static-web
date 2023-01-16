@@ -1,7 +1,5 @@
-boton_tienda{
-    width: 209px;
-    height: 58px;
-}
 * {
     background-image: url( '/assets/Desktop_Blobs.svg' );
+    font-family: 'Montserrat', sans-serif;
 }
+
