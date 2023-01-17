@@ -1,12 +1,17 @@
 * {
-    background-image: url( '/assets/Desktop_Blobs.svg' );
     font-family: 'Montserrat', sans-serif;
 }
+body{
+    background-image: url( 'assets/Background_Blobs.svg' );
+    background-position: center center;
+    background-size: cover;
+    background-attachment:fixed;
+}
 
-/*h1{
+
+h1{
     font-style: normal;
     font-weight: 700;
-    font-size: 100px;
-    line-height: 156px;
+    font-size: 90px;
     color: #32256A;
-}*/
+}
