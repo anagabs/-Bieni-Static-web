@@ -1,14 +1,14 @@
 
-
 * {
     font-family: 'Montserrat', sans-serif;
-    background-color: #FAFAFA;
 }
+
 body{
     background-image: url( 'assets/Background_Blobs.svg' );
     background-position: center center;
     background-size: cover;
     background-attachment:fixed;
+
 }
 
 h3{
