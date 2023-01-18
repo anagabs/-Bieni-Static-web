@@ -1,16 +1,6 @@
-:root{
-    --background-color: #fafafa;
-    --text-color:#32256A;
 
-}
-@media(prefers-color-scheme: dark){
-    --background-color: #fafafa;
-    --text-color: #32256A;
-}
 * {
     font-family: 'Montserrat', sans-serif;
-
-
 }
 
 body{
@@ -18,6 +8,7 @@ body{
     background-position: center center;
     background-size: cover;
     background-attachment:fixed;
+
 }
 
 h3{
