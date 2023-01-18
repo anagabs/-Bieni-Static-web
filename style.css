@@ -1,7 +1,18 @@
+:root{
+    --background-color: #fafafa;
+    --text-color:#32256A;
+
+}
+@media(prefers-color-scheme: dark){
+    --background-color: #fafafa;
+    --text-color: #32256A;
+}
 * {
     font-family: 'Montserrat', sans-serif;
-    background-color: #FAFAFA;
+
+
 }
+
 body{
     background-image: url( 'assets/Background_Blobs.svg' );
     background-position: center center;
